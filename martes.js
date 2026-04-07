@@ -1,1 +1,1 @@
-//hoy es viernes 
+//hoy es jueves 
